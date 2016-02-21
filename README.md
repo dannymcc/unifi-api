@@ -6,7 +6,7 @@ A rewrite of https://github.com/unifi-hackers/unifi-lab in cleaner Python.
 Install
 -------
 
-    git clone this repo
+    git clone https://github.com/dannymcc/unifi-api.git
 
 Utilities
 ---------
